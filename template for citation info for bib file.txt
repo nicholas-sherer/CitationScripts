@@ -1,0 +1,12 @@
+@article{,
+	author = {},
+	title = {},
+	journal = {},
+	publisher = {},
+	volume = {},
+	number = {},
+	pages = {},
+	year = {},
+	issn = {},
+	doi = {}
+}
